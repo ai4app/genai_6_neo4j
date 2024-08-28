@@ -10,14 +10,13 @@ For a complete walkthrough of this repository, [link](https://graphacademy.neo4j
 Remember about virtual enviorment! 
 
 [source,sh]
-python -m venv nazwa_srodowiska
-
+<pre> ```python -m venv nazwa_srodowiska```</pre>
 To run the application, you must install the libraries listed in `requirements.txt`.
 
 [source,sh]
-pip install -r requirements.txt
+<pre> ```pip install -r requirements.txt```</pre>  
 
-Then run the `streamlit run` command to start the app on link:http://localhost:8501/[http://localhost:8501/^].
+Then run the `streamlit run` command to start the app on link: [http://localhost:8501/](http://localhost:8501/).
 
 [source,sh]
-streamlit run bot.py
+<pre> ```streamlit run bot.py```</pre>
