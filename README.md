@@ -16,3 +16,6 @@ To run the application, you must install the libraries listed in `requirements.t
 Then run the `streamlit run` command to start the app on link: [http://localhost:8501/](http://localhost:8501/).
 
 <pre> streamlit run genai.py</pre>
+
+
+Presentation: [https://ai4app.pl/chatbots/example/genai_krakow.pdf](https://ai4app.pl/chatbots/example/genai_krakow.pdf)
